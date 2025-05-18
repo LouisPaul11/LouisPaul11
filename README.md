@@ -35,8 +35,8 @@
 
 <!-- F. Social and Contact -->
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/louis-paul-0796b313a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+<!--📧 Email: [youremail@example.com](mailto:youremail@example.com)-->
 
 ---
 
